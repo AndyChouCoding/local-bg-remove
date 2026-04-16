@@ -19,3 +19,4 @@ python3 remove_bg.py
 
 echo ""
 read -p "按 Enter 關閉視窗..."
+osascript -e 'tell application "Terminal" to close front window'
