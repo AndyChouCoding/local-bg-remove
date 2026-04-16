@@ -16,3 +16,6 @@ if ! python3 -c "import rembg" &> /dev/null; then
 fi
 
 python3 remove_bg.py
+
+echo ""
+read -p "按 Enter 關閉視窗..."
