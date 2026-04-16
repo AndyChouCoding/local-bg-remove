@@ -2,3 +2,4 @@ source/*
 !source/.gitkeep
 output/*
 !output/.gitkeep
+.DS_Store
